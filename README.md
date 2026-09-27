@@ -11,4 +11,4 @@ Kotlin · Spring Boot 백엔드 개발자입니다. 보안 SaaS(S2W)와 SI(SK C&
 |---|---|
 | [meet-again-backend](https://github.com/meet-again-konkuk/meet-again-backend) | 재회 매칭 앱 백엔드. 도메인 주도 멀티모듈 구조와 도메인 모델 중심 설계, 1인 설계·개발 |
 | [backend-study](https://github.com/holeman79/backend-study) | 백엔드 주제를 실제 데이터로 재고 기록하는 공부 저장소 |
-| [spring-yaml-importer](https://github.com/holeman79/spring-yaml-importer) | 멀티모듈 Spring Boot 에서 모듈별 설정 파일을 병합하는 라이브러리 |
+| [holeman-harness-framework](https://github.com/holeman79/holeman-harness-framework) | Claude Code 하네스 — 전역 지침·스킬·서브에이전트·가드 훅. 회사·개인 설정은 별도 층으로 분리해 병합 |
